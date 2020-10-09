@@ -1,7 +1,6 @@
 # Demo flowchart
-![Kasey](https://github.com/Athenian-ComputerScience-Fall2020/project-1-maleich/blob/master/KKflowchart.pdf)
 
-![alt text](../Kasey_flowchart.png)
+![alt text](Kasey_flowchart.png "Login With")<br/><br/>
 
 
 
