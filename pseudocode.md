@@ -1,7 +1,7 @@
 # Demo flowchart
 
 ![alt text](Kasey.png "Kasey's Flowchart")
-![alt text](Kasey_flowchart.png "Login With")<br/><br/>
+
 
 
 
