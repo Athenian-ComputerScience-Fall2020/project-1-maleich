@@ -1,5 +1,5 @@
 # Demo flowchart
-![Kasey](project-1-maleich/KKflowchart.pdf)
+![Kasey](https://github.com/Athenian-ComputerScience-Fall2020/project-1-maleich/blob/master/KKflowchart.pdf)
 
 
 
