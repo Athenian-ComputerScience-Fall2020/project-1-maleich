@@ -1,3 +1,11 @@
+# Demo flowchart
+(Kasey)[project-1-maleich/KKflowchart.pdf)
+
+
+
+
+
+
 # Pseudocode for this program
 (this can be in a flowchart, using bullet points, inserting a picture, etc)
 
